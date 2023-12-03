@@ -1,6 +1,6 @@
 # Data Governance Project: SneakerPark
 
-*Note: This text is from Udacity.com.*
+*Note: This project description text is from Udacity.com.*
 
 ## Business Background
 
