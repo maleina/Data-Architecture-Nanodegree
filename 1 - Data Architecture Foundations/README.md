@@ -29,5 +29,7 @@ Step 4: This last step is optional but gives you some ideas on how to make your 
 
 ## Supporting Materials
 IT Best Practices- The IT Department Best Practices policies for databases you should follow when completing your project
+
 HR Dataset- The data you will be using in the project, currently an Excel workbook consisting of 206 records, with eleven columns.
+
 Starter Template- PowerPoint file covering all of the necessary information and steps to complete for the project.
