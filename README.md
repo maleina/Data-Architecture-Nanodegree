@@ -24,4 +24,4 @@ The final project was based on a real-world scenario that involved architecting 
 
 The content of the final course covered the design of data governance solutions. This included: metadata and Metadata Management Systems, Enterprise Data Models, Enterprise Data Catalogs, data profiling, monitoring and remediation options for data quality issues, master data and golden records, and different types of Master Data Management architectures.
 
-The [final project](/4%20-%20Governance/) entailed documenting an enterprise's data systems, setting up a data catalog, designing better data quality and master data management processes, and formalizing data governance roles.
+The final [data governance](/4%20-%20Governance/) project entailed documenting an enterprise's data systems, setting up a data catalog, designing better data quality and master data management processes, and formalizing data governance roles.
